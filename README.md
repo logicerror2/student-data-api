@@ -29,6 +29,9 @@ This project provides a simple RESTful API to manage student profiles, marks, an
 git clone https://github.com/logicerror2/student-data-api.git
 ```
 Navigate to student-data-api
+```bash
+cd student-data-api
+```
 
 Run the Gradle
 ```bash
