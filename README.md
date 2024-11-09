@@ -17,9 +17,9 @@ This project provides a simple RESTful API to manage student profiles, marks, an
 
 ## Prerequisites
 
-- Java 17 or higher
-- Maven or Gradle (based on your setup)
-- Spring Boot 2.7.x or later
+- Java 17 
+- Gradle
+- Spring Boot 2.7.5
 - Internet connection (for dependencies and API documentation)
 
 ## Installation
