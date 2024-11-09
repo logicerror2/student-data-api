@@ -40,7 +40,7 @@ Run the Gradle
 
 The API will be available at http://localhost:8080
 
-Access the Swagger UI for interactive API testing at: http://localhost:8080/swagger-ui.html
+Access the Swagger UI for interactive API testing at: http://localhost:8080/swagger-ui/index.html
 
 Endpoints
 Here are the available API endpoints:
